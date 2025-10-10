@@ -1,0 +1,12 @@
+Name = SanDisk Ultra Dual Drive Luxe USB Type C Flash Drive (Silver, 128 GB, 5Y - SDDDC4-128G-I35) The all-metal, 2-in-1 flash drive with a reversible USB Type-C and a traditional.
+
+Price = ₹1,299
+
+Exprice = ₹3,000
+
+Description = The all-metal, 2-in-1 flash drive with a reversible USB Type-C and a traditional Type-A connector.
+, Seamlessly move content between your USB Type-C smartphone, tablets and Macs and USB Type-A computers.
+, Free up space on your USB Type-C smartphone so you can take more photos.
+, High-performance USB 3.1 Gen 1 drive with 150MB/s read speeds lets you quickly move your files to your computer. 
+
+Brand = Sandisk

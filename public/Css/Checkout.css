@@ -1,0 +1,95 @@
+/* Start of Checkout Section */
+
+.checkout-section .checkout-form {
+    margin-bottom: 30px;
+}
+
+.checkout-section .checkout-form h4 {
+    color: var(--Dtext);
+    font-weight: 600;
+    text-transform: uppercase;
+    border-bottom: 1px solid var(--Bor);
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.checkout-section .checkout-form .form-group {
+    margin-bottom: 20px;
+}
+
+.checkout-section .checkout-form .form-group label {
+    color: var(--Dtext);
+    margin-bottom: 10px;
+}
+
+.checkout-section .checkout-form .form-group .form-input {
+    width: 100%;
+}
+
+.checkout-section .checkout-summary {
+    background-color: var(--Lbackground);
+    padding: 30px;
+}
+
+.checkout-section .checkout-summary h4 {
+    border-bottom: 1px solid var(--Bor);
+    margin-bottom: 18px;
+    color: var(--darktext);
+    text-transform: uppercase;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+.checkout-section .summary-items {
+    margin-bottom: 22px;
+    border-bottom: 1px solid var(--Bor);
+}
+
+.checkout-section .summary-items ul,
+.checkout-section .summary-total ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.checkout-section .summary-items .item-title,
+.checkout-section .summary-items .item-total {
+    font-size: 16px;
+    color: var(--Dtext);
+    font-weight: 600;
+}
+
+.checkout-section .summary-items ul li,
+.checkout-section .summary-total ul li {
+    font-size: 14px;
+    color: var(--Gtext);
+    font-weight: 400;
+    overflow: hidden;
+    margin-bottom: 14px;
+    line-height: 24px;
+}
+
+.checkout-section .summary-items ul li span {
+    font-size: 14px;
+    color: green;
+    font-weight: 600;
+}
+
+.checkout-section .summary-total ul li {
+    font-size: 19px;
+    color: var(--Dtext);
+    font-weight: 600;
+    overflow: hidden;
+    line-height: 40px;
+}
+
+.checkout-section .summary-total ul li span {
+    float: right;
+    color: var(--Main);
+}
+
+.checkout-section .summary-button .razorpay-payment-button {
+    width: 100%;
+}
+
+/* End of Checkout Section */

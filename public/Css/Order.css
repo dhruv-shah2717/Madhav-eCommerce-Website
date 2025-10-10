@@ -1,0 +1,73 @@
+/* Start of Order Table and Add Review Modal Section */
+
+.order-section .order-table thead tr {
+    border-bottom: 1px solid var(--Bor);
+}
+
+.order-section .order-table thead tr th {
+    font-size: 18px;
+    color: var(--Dtext);
+    font-weight: 600;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+
+.order-section .order-table tbody tr.order-item {
+    border-bottom: 1px solid var(--Bor);
+}
+
+.order-section .order-table tbody tr td {
+    padding: 30px 0;
+}
+
+.order-section .product-info {
+    align-items: center;
+}
+
+.order-section .product-info img {
+    margin-right: 25px;
+    height: 90px;
+    width: 90px;
+    float: left;
+}
+
+.order-section .product-name {
+    color: var(--Dtext);
+    margin: 0;
+}
+
+.order-section .product-rating i {
+    font-size: 10px;
+    color: var(--Star);
+    margin-right: -2px;
+}
+
+.order-section .date p,
+.order-section .quantity p,
+.order-section .status p {
+    font-size: 16px;
+    color: var(--Dtext);
+    font-weight: 400;
+}
+
+.order-section .status p {
+    color: green;
+}
+
+.order-section .price {
+    font-size: 16px;
+    color: var(--Main);
+    font-weight: 600;
+}
+
+.order-section .review .btn {
+    font-size: 14px;
+}
+
+/* Modal */
+
+.order-section .modal .form-group {
+    margin-bottom: 20px;
+}
+
+/* End of Order Table and Add Review Modal Section */

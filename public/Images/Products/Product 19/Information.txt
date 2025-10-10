@@ -1,0 +1,12 @@
+Name = YONEX Nanoray 7000I G4-2U Aluminum Badminton Racquet with Full Cover (Blue) Pack of 1.
+
+Prcie = ₹1,469
+ 
+Exprice = ₹2,299
+
+Description = Grip Size : G4 (3.25 Inches)| Weight : 4U (80-84.9 grams). Head Size 95.3 sq/in
+, Color : Blue | Head Shape : Isometric
+, String Level : 24 pounds | Strung Type : Strung
+, Balance Type : Head Light |Playing Level : All Material : Aluminum-Alloy Frame - aluminum
+
+Brand = Yonex

@@ -1,0 +1,12 @@
+Name = Lymio Men Cargo || Men Cargo Pants Cotton || Cargos for Men (Cargo-05-08).
+
+Price = ₹699
+
+Exprice = ₹4,999
+
+Description = Men Cargo || Men Cargo Pants || Men Cargo Pants Cotton || Cargos for Men
+, Type:Cargo Pants
+, Closure Type:Drawstring Waist
+, Length:Long
+
+Brand = Lymio

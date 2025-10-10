@@ -1,0 +1,11 @@
+Name = Zebronics-NS1500 Laptop Stand Featuring Foldable Design, Anti-Slip Silicone Rubber Pads, Supports Maximum of 5kgs Weight Tabletop Ventilation friendly design Ergonomic Design.
+
+Price =  ₹299
+
+Exprice = ₹1,599
+
+Description = Supports Max 5kg weight | Supports upto 43.18cm (17) laptop sizes
+, Easy to Carry | Anti-slip silicone Rubber pads | 7 Adjustable Levels
+, Ventilation friendly design | Ergonomic Design
+
+Brand = Zebronics

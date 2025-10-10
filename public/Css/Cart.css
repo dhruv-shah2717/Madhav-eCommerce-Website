@@ -1,0 +1,145 @@
+/* Start of Cart Table, Discount, and Total Section */
+
+.cart-section .cart-table thead tr {
+    border-bottom: 1px solid var(--Bor);
+}
+
+.cart-section .cart-table thead tr th {
+    font-size: 18px;
+    color: var(--Dtext);
+    font-weight: 600;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+
+.cart-section .cart-table tbody tr.cart-item {
+    border-bottom: 1px solid var(--Bor);
+}
+
+.cart-section .cart-table tbody tr td {
+    padding: 30px 0;
+}
+
+.cart-section .product-info {
+    align-items: center;
+}
+
+.cart-section .product-info img {
+    margin-right: 25px;
+    float: left;
+    height: 90px;
+    width: 90px;
+}
+
+.cart-section .product-name {
+    color: var(--Dtext);
+    margin: 0;
+}
+
+.cart-section .product-rating i {
+    font-size: 10px;
+    color: var(--Star);
+    margin-right: -2px;
+}
+
+.cart-section .price, .cart-section .total {
+    font-size: 16px;
+}
+
+.cart-section .price {
+    color: var(--Dtext);
+    font-weight: 400;
+}
+
+.cart-section .total {
+    color: var(--Main);
+    font-weight: 600;
+}
+
+.cart-section .quantity {
+    display: flex;
+    justify-content: center;
+}
+
+.cart-section .quantity-controls {
+    display: flex;
+    align-items: center;
+}
+
+.cart-section .quantity-controls .decrement,
+.cart-section .quantity-controls .increment {
+    font-size: 16px;
+    color: var(--Gtext);
+    width: 30px;
+    text-align: center;
+    line-height: 36px;
+    cursor: pointer;
+}
+
+.cart-section .quantity-controls .quantity-input {
+    font-size: 14px;
+    font-weight: 500;
+    border: 1px solid var(--Bor);
+    width: 70px;
+    text-align: center;
+    height: 36px;
+}
+
+.cart-section .cart-discount {
+    margin-top: 30px;
+}
+
+.cart-section .cart-discount h5 {
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.cart-section .discount-form {
+    display: flex;
+    width: 300px;
+}
+
+.cart-section .discount-input {
+    flex: 1;
+}
+
+.cart-section .discount-button {
+    margin-left: 5px;
+}
+
+.cart-section .cart-total {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: var(--Lbackground);
+}
+
+.cart-section .cart-total h4 {
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.cart-section .total-summary {
+    margin-bottom: 25px;
+    padding: 0;
+    list-style: none;
+}
+
+.cart-section .total-summary li {
+    font-size: 16px;
+    line-height: 40px;
+}
+
+.cart-section .total-summary li span {
+    float: right;
+    color: green;
+    font-weight: 600;
+}
+
+.cart-section .checkout-button {
+    margin-top: 14px;
+    width: 100%;
+}
+
+/* End of Cart Table, Discount, and Total Section */

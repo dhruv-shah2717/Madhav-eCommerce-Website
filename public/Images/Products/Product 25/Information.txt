@@ -1,0 +1,12 @@
+Name = SG Seamer Leather Cricket Ball, Adult Size-3, (Red), Standard for club and school matches.
+
+Price = ₹499
+
+Exprice = ₹529
+
+Description = The Seamer is a good quality two-piece cricket ball made from good quality alum tanned leather
+, The Seamer is ideally suited for club and school matches
+, Water-proofed
+, Good quality centre construction encased with layers of top quality Portuguese cork wound with 100 percent wool
+
+Brand = SG

@@ -1,0 +1,12 @@
+Name = CB-COLEBROOK Men's Regular Fit Solid Soft Touch Cotton Casual Shirt Black.
+
+Price =  ₹392
+
+Exprice = ₹1,288
+
+Description = Care Instructions: Machine Wash
+, Shirt Material : Soft Touch Cotton Fabrics Good capability of tenderness, air permeability and moisture absorption feels soft and comfy , 80% Cotton 20% Silk.
+, Sleeve Type :- Full Sleeve , Occasion :- Casual, Closure :- Button , Pocket Type :- V- Designer Pocket
+, Pocket Type : V Design : 1 , unit_count : 1 , shirt_form_type : reguler , Size chart - S-38, M-40, L-42, XL-44, XXL-46
+
+Brand = CB-COLEBROOK

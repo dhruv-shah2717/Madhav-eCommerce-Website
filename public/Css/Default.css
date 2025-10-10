@@ -1,0 +1,107 @@
+/* Start of Default Styles Section */
+/* Mahek */
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Averia Libre", system-ui;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+:root {
+    --NavFot: #040d12;
+    --Main: #ca1515;
+    --Star: #ffc200;
+    --Gtext: #666666;
+    --Wtext: #f5f5f5;
+    --Dtext: #111111;
+    --Bor: #e1e1e1;
+    --Lbackground: #f5f5f5;
+}
+
+.Dinput {
+    height: 45px;
+    width: 100%;
+    border: 1px solid var(--Bor);
+    border-radius: 8px;
+    font-size: 14px;
+    padding-left: 20px;
+    color: var(--Gtext);
+}
+
+.Dbutton {
+    font-size: 14px;
+    color: var(--Wtext);
+    font-weight: 600;
+    border: none;
+    text-transform: uppercase;
+    padding: 12px 30px;
+    border-radius: 50px;
+    background-color: var(--Main);
+}
+
+.razorpay-payment-button {
+    font-size: 14px;
+    color: var(--Wtext);
+    font-weight: 600;
+    border: none;
+    text-transform: uppercase;
+    padding: 12px 30px;
+    border-radius: 50px;
+    background-color: var(--Main);
+}
+
+.error span {
+    color: red;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    padding: 0;
+}
+
+.row {
+    margin: 0;
+    padding: 0;
+}
+
+.col {
+    margin: 0;
+}
+
+.Dhruv {
+    margin: 70px 0px;
+}
+
+.Size {
+    padding: 0px 70px;
+}
+
+@media (max-width: 1200px) {
+    .Size {
+        padding: 0px 45px;
+    }
+}
+
+@media (max-width: 600px) {
+    .Size {
+        padding: 0px 25px;
+    }
+}
+
+/* End of Default Styles Section */

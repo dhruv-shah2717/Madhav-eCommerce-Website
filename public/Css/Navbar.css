@@ -1,0 +1,122 @@
+/* Start of Navbar Section */
+
+.navbar-section .navbar {
+    background-color: var(--NavFot);
+    padding: 16px 0;
+}
+
+.navbar-section .navbar-logo {
+    width: 180px;
+    height: 50px;
+}
+
+.navbar-section .navbar-logo img {
+    height: 100%;
+    width: 100%;
+}
+
+.navbar-section .nav-item {
+    color: var(--Wtext);
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.navbar-section .nav-link {
+    color: inherit;
+    position: relative;
+}
+
+.navbar-section .nav-link::after {
+    content: "";
+    position: absolute;
+    background-color: rgb(255, 112, 136);
+    height: 2px;
+    width: 0;
+    left: 0;
+    bottom: -4px;
+    transition: 0.5s;
+}
+
+.navbar-section .nav-link:hover::after {
+    width: 100%;
+}
+
+.navbar-section .active {
+    color: rgb(255, 112, 136);
+}
+
+.navbar-section .nav-link:hover {
+    color: rgb(255, 112, 136);
+}
+
+.navbar-section .dropdown-menu {
+    background-color: var(--NavFot);
+}
+
+.navbar-section .dropdown-item {
+    background-color: inherit;
+    color: var(--Wtext);
+}
+
+.navbar-section .nav-search-overlay {
+    height: 100%;
+    width: 100%;
+    display: none;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.navbar-section .nav-search-overlay .close-btn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 50px;
+    cursor: pointer;
+    color: var(--Wtext);
+}
+
+.navbar-section .nav-search-form {
+    position: relative;
+    top: 25%;
+    width: 75%;
+    text-align: center;
+    margin-top: 30px;
+    margin: auto;
+}
+
+.navbar-section .nav-search-form input {
+    padding-left: 20px;
+    border-radius: 8px;
+    font-size: 14px;
+    color: var(--Gtext);
+    border: 1px solid var(--Bor);
+    float: left;
+    width: 85%;
+    height: 45px;
+}
+
+.navbar-section .nav-search-form button {
+    float: left;
+    width: 15%;
+    padding: 12px 0;
+    background-color: var(--Main);
+    color: var(--Wtext);
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 14px;
+    border: none;
+}
+
+.navbar-section .alert {
+    border-radius: 0px;
+    padding: 10px 20px 10px 25px;
+}
+
+.navbar-section .alert .btn-close {
+    padding: 12px 50px 12px 0px;
+}
+
+/* End of Navbar Section */

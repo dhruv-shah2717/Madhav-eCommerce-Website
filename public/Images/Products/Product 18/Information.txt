@@ -1,0 +1,12 @@
+Name = Lymio Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt (Rib-Shirt).
+
+Price = ₹600
+
+Exprice = ₹1400
+
+Description = Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt
+Style:Casual
+Neckline:Collar
+Sleeve Length:Long Sleeve.
+
+Brand = Lymio

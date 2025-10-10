@@ -1,0 +1,12 @@
+Name = Ben Martin Men's Casual Strechable Denim Tapered Fit Carrot Jeans.
+
+Price = ₹899
+
+Exprice = ₹2,999
+
+Description = Carrot jeans have a distinct tapering from the hips or waist down to the ankles. This creates a narrow, carrot-like shape.
+, This carrot jeans is more relaxed fit around the waist and upper thighs, providing comfort in these areas.
+, This carrot jeans often have a higher rise, meaning it's sit higher on the waist compared to other styles like low-rise or mid-rise jeans.
+, This jeans can be dressed up or down, making them suitable for various occasions from casual to semi-formal depending on the styling.
+
+Brand = Ben Martin

@@ -1,0 +1,136 @@
+/* Start of Slider Image Section */
+
+.slider-section .carousel-item img {
+    width: 100%;
+    height: 680px;
+}
+
+/* End of Slider Image Section */
+
+/* Start of Product Card Section */
+
+.product-section .product-heading {
+    padding: 0 0 20px 0;
+}
+
+.product-section .product-heading h4 {
+    color: var(--Dtext);
+    font-weight: 600;
+    text-transform: uppercase;
+    position: relative;
+}
+
+.product-section .product-heading h4::after {
+    position: absolute;
+    content: "";
+    background-color: rgb(255, 112, 136);
+    height: 2.5px;
+    width: 70px;
+    left: 0;
+    bottom: -4px;
+}
+
+.product-section .product-card {
+    border: none;
+    margin-bottom: 25px;
+}
+
+.product-section .product-img {
+    height: 350px;
+    border-radius: 0;
+}
+
+.product-section .product-body {
+    text-align: center;
+}
+
+.product-section .product-name {
+    font-size: 14px;
+    color: var(--Dtext);
+}
+
+.product-section .product-rating {
+    padding: 0;
+}
+
+.product-section .product-rating i {
+    font-size: 10px;
+    color: var(--Star);
+    margin-right: -2px;
+}
+
+.product-section .product-price {
+    margin-top: 3px;
+    font-weight: 600;
+}
+
+/* End of Product Card Section */
+
+/* Start of Hero Image Section */
+
+.hero-section .hero-image {
+    width: 100%;
+}
+
+/* End of Hero Image Section */
+
+/* Start of Slide Image and Content Section */
+
+.slide-section .slide-image {
+    padding: 0;
+}
+
+.slide-section .image {
+    width: 100%;
+    display: block;
+}
+
+.slide-section .slide-content {
+    padding: 70px 20px;
+}
+
+.slide-section .slide-heading {
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: var(--Main);
+}
+
+.slide-section .slide-text {
+    font-size: 16px;
+    color: var(--Gtext);
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+/* End of Slide Image and Content Section */
+
+/* Start of Feature Card Section */
+
+.feature-section .feature-card {
+    border: none;
+    border-radius: 0;
+}
+
+.feature-section .feature-icon {
+    position: relative;
+}
+
+.feature-section .feature-icon i {
+    font-size: 40px;
+    color: var(--Main);
+    margin-right: 15px;
+    position: absolute;
+    top: 10px;
+}
+
+.feature-section .feature-title {
+    font-weight: 600;
+    color: var(--Darktext);
+}
+
+.feature-section .feature-text {
+    font-size: 14px;
+    color: var(--Gtext);
+}
+
+/* End of Feature Card Section */

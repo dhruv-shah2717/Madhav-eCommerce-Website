@@ -1,0 +1,12 @@
+Name = NONGI 200 Plastic Badminton Shuttlecock Pack of 5 Color :-Yellow Base material :-Eva Cork.
+
+price = ₹189
+
+Exprice = ₹250
+
+Description = Skirt Material:- Plastic
+, Base material :-Eva Cork
+, Color :-Yellow
+. Shuttlecock Pack of 5
+
+Brand = Nongi

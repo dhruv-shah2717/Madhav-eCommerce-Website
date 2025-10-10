@@ -1,0 +1,81 @@
+/* Start of Address, Contact Form, and Map Section */
+
+.contact-section .contact-address {
+    margin-bottom: 45px;
+}
+
+.contact-section .address-heading {
+    font-weight: 600;
+    text-transform: uppercase;
+    color: var(--Dtext);
+    margin-bottom: 25px;
+}
+
+.contact-section .address-details {
+    margin: 0;
+    padding: 0;
+}
+
+.contact-section .address-details li {
+    list-style: none;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.contact-section .address-details h6 {
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: var(--Dtext);
+}
+
+.contact-section .address-details h6 i {
+    font-size: 17px;
+    margin-right: 10px;
+    color: var(--Main);
+}
+
+.contact-section .address-details p {
+    font-size: 15px;
+    color: var(--Gtext);
+    font-weight: 400;
+}
+
+.contact-section .contact-form {}
+
+.contact-section .form-heading {
+    color: var(--Dtext);
+    font-weight: 600;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+}
+
+.contact-section .form-group {
+    margin-bottom: 20px;
+}
+
+.contact-section .form-input {
+    width: 100%;
+}
+
+.contact-section .form-textarea {
+    height: 130px;
+    padding-top: 12px;
+    font-size: 14px;
+    resize: none;
+}
+
+.contact-section .submit-button {
+    margin-bottom: 40px;
+}
+
+.contact-section .contact-map {
+    height: 750px;
+}
+
+.contact-section .contact-map iframe {
+    width: 100%;
+    height: 100%;
+}
+
+/* End of Address, Contact Form, and Map Section */

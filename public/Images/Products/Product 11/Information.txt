@@ -1,0 +1,10 @@
+Name = OTUS Men's Cotton Casual/Formal Slim Fit Solid Shirt
+
+Price =  ₹218
+
+Exprice = ₹1,199
+
+Description = Care Instructions: Hand Wash Only
+, Fit Type: Slim Fit
+
+Brand = Otus

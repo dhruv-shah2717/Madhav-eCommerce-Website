@@ -1,0 +1,12 @@
+Name = YONEX ZR 100 Light Aluminium Strung Badminton Racket (Dark Charcoal) 95 grams.
+
+Price = ₹490
+
+Exprice = ₹800
+
+Description = Stiff Flexibility: The racket is characterized by a stiff flexibility, providing stability and control during gameplay. This stiffness is well-suited for players who are developing their badminton skills, especially beginners.
+, Ideal for Beginners: Tailored for players at the beginner level, the racket is designed to support skill development and provide a balance of power and control to aid in the learning process.
+, Isometric Head Shape: The racket features an isometric head shape, optimizing the sweet spot. This design choice enhances the hitting area, promoting better shot accuracy and consistency for players still refining their techniques.
+, Aluminium and Graphite Composition: The racket is constructed with a combination of aluminium and graphite, providing a balance of durability and performance.
+
+Brand = Yonex

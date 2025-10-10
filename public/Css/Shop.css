@@ -1,0 +1,22 @@
+/* Start of Search and Product Card Section */
+
+.product-section .search {
+    margin-bottom: 40px;
+}
+
+.product-section .search-input {
+    width: 100%;
+}
+
+.product-section .search-button {
+    position: absolute;
+    margin-left: 5px;
+}
+
+@media (max-width: 500px) {
+    .product-section .search-input {
+        width: 200px;
+    }
+}
+
+/* End of Search and Product Card Section */

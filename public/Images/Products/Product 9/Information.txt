@@ -1,0 +1,15 @@
+Name = Cosmic Byte CB-GK-25 Pandora TKL Mechanical Keyboard Upgraded with Swappable Outemu Blue Switches and Rainbow LED (Black/Grey).
+
+Price =  ₹1,600
+
+Exprice = ₹2,200
+
+Description = Compact Mechanical Keyboard with 87 keys.
+Blue Outemu Mechanical Silent Key Switches.
+50 million + Operations for Each Key.
+Injection Molded Double-shot Color Keycaps.
+Simultaneous Operation for All Keys Without Any Key Ghosting Effects.
+Adjustable Backlight Brightness and Speed
+20 Backlight Effects and 8 Game Modes.
+
+Brand = Cosmic Byte

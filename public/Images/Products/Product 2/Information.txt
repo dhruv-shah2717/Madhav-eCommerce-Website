@@ -1,0 +1,12 @@
+Name = boAt Wave Elevate Smart Watch with 1.96" Display, BT Calling, Functional Crown, AI Voice Assistant, Built-in Game, HR & SPO2 Monitoring and Stress Monitoring, IP67(Active Black).
+
+Price = ₹1,499
+
+Exprice = ₹6,499
+
+Description = Bluetooth Calling- Calling made convenient with just a tap on Wave Elevate. Save up to 10 contacts, make calls with the dial pad and its superior quality speaker & mic make your experience smooth and clear.
+, Functional Crown- A functional crown on the side of this smartwatch allows you to conveniently navigate through the features and settings.
+, Watch Faces- Multiple watch faces with customizable options to match your OOTD, every day!
+,Voice Assistant- This smartwatch’s voice assistant takes on questions, set reminders and alarms. Wave Elevate is a smartwatch smart enough to listen to all your commands.
+
+Brand = boAt
