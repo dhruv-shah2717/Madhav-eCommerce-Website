@@ -74,7 +74,7 @@ The Admin panel allows complete control over products, users, orders, and websit
 <h1>Database Setup</h1>
 <ul>
     <li>Open <strong>phpMyAdmin</strong>.</li>
-    <li>Create a new database (example: <strong>localhost</strong>).</li>
+    <li>Create a new database (example: <strong>Madhav-Website</strong>).</li>
     <li>Import the file <strong>localhost.sql</strong>.</li>
 </ul>
 
