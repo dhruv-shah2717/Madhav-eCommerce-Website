@@ -291,7 +291,7 @@
                                 <div class="footer-copyright">
                                     Conditions of Use & Sale Privacy Notice Interest-Based Ads. <br>
                                     © 2000-2024, Madhav.com, Inc. or its affiliates. <br>
-                                    Created by Dhruv M Shah.
+                                    Dhruv Mehul Shah
                                 </div>
                             </div>
                         </div>
